@@ -23,7 +23,7 @@ update @ 2023/03/09
 
 	- PA.1 is SPI0_MISO , NOT USED
 
-3. Below is log message , SPI master send data per 10ms , and prinf SPI slave result
+3. Below is log message , SPI master send data per 10ms , and printf SPI slave result
 
 ![image](https://github.com/released/M031BSP_SPI_Slave_RX/blob/main/log.jpg)	
 
